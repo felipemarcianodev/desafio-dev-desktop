@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\DesafioDev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5478220C-008D-4DDB-ACD8-4668ECB3C394}|src\\DesafioDev\\DesafioDev.csproj|c:\\projetos\\desafiodev\\src\\desafiodev\\frmcadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5478220C-008D-4DDB-ACD8-4668ECB3C394}|src\\DesafioDev\\DesafioDev.csproj|solutionrelative:src\\desafiodev\\frmcadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C851D9-B39D-4B52-B196-6C46C82A89B6}|src\\DesafioDev.Dominio\\DesafioDev.Dominio.csproj|c:\\projetos\\desafiodev\\src\\desafiodev.dominio\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C851D9-B39D-4B52-B196-6C46C82A89B6}|src\\DesafioDev.Dominio\\DesafioDev.Dominio.csproj|solutionrelative:src\\desafiodev.dominio\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C851D9-B39D-4B52-B196-6C46C82A89B6}|src\\DesafioDev.Dominio\\DesafioDev.Dominio.csproj|c:\\projetos\\desafiodev\\src\\desafiodev.dominio\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C851D9-B39D-4B52-B196-6C46C82A89B6}|src\\DesafioDev.Dominio\\DesafioDev.Dominio.csproj|solutionrelative:src\\desafiodev.dominio\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5478220C-008D-4DDB-ACD8-4668ECB3C394}|src\\DesafioDev\\DesafioDev.csproj|c:\\projetos\\desafiodev\\src\\desafiodev\\frmcadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5478220C-008D-4DDB-ACD8-4668ECB3C394}|src\\DesafioDev\\DesafioDev.csproj|solutionrelative:src\\desafiodev\\frmcadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioDev\\src\\DesafioDev.Dominio\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "src\\DesafioDev.Dominio\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Projetos\\DesafioDev\\src\\DesafioDev.Dominio\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "src\\DesafioDev.Dominio\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAASwCIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-05T03:09:53.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCadastroCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Projetos\\DesafioDev\\src\\DesafioDev\\frmCadastroCliente.cs",
+              "RelativeDocumentMoniker": "src\\DesafioDev\\frmCadastroCliente.cs",
+              "ToolTip": "C:\\Projetos\\DesafioDev\\src\\DesafioDev\\frmCadastroCliente.cs [Design]",
+              "RelativeToolTip": "src\\DesafioDev\\frmCadastroCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-05T02:45:10.352Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCadastroCliente.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioDev\\src\\DesafioDev\\frmCadastroCliente.cs",
+              "RelativeDocumentMoniker": "src\\DesafioDev\\frmCadastroCliente.cs",
+              "ToolTip": "C:\\Projetos\\DesafioDev\\src\\DesafioDev\\frmCadastroCliente.cs",
+              "RelativeToolTip": "src\\DesafioDev\\frmCadastroCliente.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-05T02:42:15.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesafioDev\\src\\DesafioDev.Dominio\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "src\\DesafioDev.Dominio\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Projetos\\DesafioDev\\src\\DesafioDev.Dominio\\Services\\ClienteService.cs",
+              "RelativeToolTip": "src\\DesafioDev.Dominio\\Services\\ClienteService.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAADwv2EAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-05T01:48:55.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

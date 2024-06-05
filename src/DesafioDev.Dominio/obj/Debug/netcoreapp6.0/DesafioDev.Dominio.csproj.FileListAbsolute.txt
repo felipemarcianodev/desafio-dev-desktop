@@ -1,0 +1,12 @@
+C:\Projetos\DesafioDev\src\DesafioDev.Dominio\bin\Debug\netcoreapp6.0\DesafioDev.Dominio.deps.json
+C:\Projetos\DesafioDev\src\DesafioDev.Dominio\bin\Debug\netcoreapp6.0\DesafioDev.Dominio.dll
+C:\Projetos\DesafioDev\src\DesafioDev.Dominio\bin\Debug\netcoreapp6.0\DesafioDev.Dominio.pdb
+C:\Projetos\DesafioDev\src\DesafioDev.Dominio\obj\Debug\netcoreapp6.0\DesafioDev.Dominio.csproj.AssemblyReference.cache
+C:\Projetos\DesafioDev\src\DesafioDev.Dominio\obj\Debug\netcoreapp6.0\DesafioDev.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DesafioDev\src\DesafioDev.Dominio\obj\Debug\netcoreapp6.0\DesafioDev.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\DesafioDev\src\DesafioDev.Dominio\obj\Debug\netcoreapp6.0\DesafioDev.Dominio.AssemblyInfo.cs
+C:\Projetos\DesafioDev\src\DesafioDev.Dominio\obj\Debug\netcoreapp6.0\DesafioDev.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\DesafioDev\src\DesafioDev.Dominio\obj\Debug\netcoreapp6.0\DesafioDev.Dominio.dll
+C:\Projetos\DesafioDev\src\DesafioDev.Dominio\obj\Debug\netcoreapp6.0\refint\DesafioDev.Dominio.dll
+C:\Projetos\DesafioDev\src\DesafioDev.Dominio\obj\Debug\netcoreapp6.0\DesafioDev.Dominio.pdb
+C:\Projetos\DesafioDev\src\DesafioDev.Dominio\obj\Debug\netcoreapp6.0\ref\DesafioDev.Dominio.dll
